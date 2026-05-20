@@ -98,10 +98,6 @@ pdf/
 
 ## 注意事项
 
-### PDF 转图片功能
-
-需要下载 [Poppler for Windows](https://github.com/oschwartz10612/poppler-windows/releases)，解压后将 `Library/bin/` 里的所有文件复制到 `resources/poppler/bin/`。
-
 ### 中文字体
 
 编辑 PDF 时如果包含中文，需要确保系统存在以下字体之一：
