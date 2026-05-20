@@ -2,6 +2,10 @@
 
 一款免费、离线、快速的 PDF 桌面处理工具。
 
+## 下载
+
+[⬇️ 下载最新版本 v1.0.0](https://github.com/havocera/pdf-toolbox/releases/latest)
+
 ## 功能特性
 
 - 🔗 **合并 PDF** - 将多个 PDF 合并为一个文件
