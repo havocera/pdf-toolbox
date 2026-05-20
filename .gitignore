@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build outputs
+dist/
+dist-react/
+dist-electron/
+dist-app/
+python/dist/
+python/build/
+python-dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Temp
+tmp/
+temp/
+*.tmp
+
+# Binary dependencies (download separately, see README)
+resources/poppler/
+
+# Claude AI local files
+.claude/
