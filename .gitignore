@@ -44,8 +44,5 @@ tmp/
 temp/
 *.tmp
 
-# Binary dependencies (download separately, see README)
-resources/poppler/
-
 # Claude AI local files
 .claude/
